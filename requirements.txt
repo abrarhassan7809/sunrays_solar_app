@@ -1,0 +1,6 @@
+sqlalchemy
+validate_email
+PySide2
+requests
+partial
+output
